@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "LarsonWallpaper", "LarsonWallpaper.pyproj", "{0972042D-9C91-4F9D-BEA4-A8E2D3757C08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0972042D-9C91-4F9D-BEA4-A8E2D3757C08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0972042D-9C91-4F9D-BEA4-A8E2D3757C08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D49D7E83-677F-4BC1-B920-187F8BA5A9B1}
+	EndGlobalSection
+EndGlobal
